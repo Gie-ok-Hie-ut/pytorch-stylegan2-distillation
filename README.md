@@ -9,12 +9,14 @@ python : 3.7.4
 
 
 ## Result
-###### Gender Swap Result (1024 x 1024) - Process takes around 0.25 ~ 0.4 seconds per single image
+Inference takes around 0.25 ~ 0.4 seconds per 1024 x 1024 size single image <br />
+Result after trained on 5000 pair synthetic dataset / 150 epoch / V100 GPU <br />
+###### Gender Translation Result (Female -> Male, Male -> Female)
 <div align="center">
   <img src="./assets/gender.JPG">
 </div>
 
-###### Age Swap Result (1024 x 1024) - Process takes around 0.25 ~ 0.4 seconds per single image
+###### Age Translation Result (Younger)
 <div align="center">
   <img src="./assets/age.JPG">
 </div>
