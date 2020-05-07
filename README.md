@@ -5,7 +5,7 @@ official release : github(https://github.com/EvgenyKashin/stylegan2-distillation
 
 ## Environment
 pytorch : 1.4.0 <br />
-python : 3.6
+python : 3.7.4
 
 
 ## Result
